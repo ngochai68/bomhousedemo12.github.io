@@ -1,0 +1,351 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 4143px;
+}
+
+.container{
+    width: 100%;
+    height: 4143px;
+    margin: auto;
+}
+
+.container header {
+    width: 100%;
+    height: 90px;
+}
+
+header .w-header {
+    width: 100%;
+    height: 90px;
+    background-color: #FFFFF;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.w-header .ct-header{
+    width: 1440px;
+    margin: auto;
+}
+
+.ct-header .logo-BomHouse {
+    width: 214.2px;
+    height: 90px;
+    float: left;
+    margin-left: 119px;
+}
+
+.ct-header .logo-BomHouse .img-logo {
+    width: 48px;
+    height: 90px;
+    padding-top: 15px;
+    float: left;
+    display: block;
+}
+
+.img-logo img {
+    width: 100%;
+}
+
+.logo-BomHouse .name-logo {
+    width: 156.2px;
+    height: 90px;
+    margin-left: 10px;
+    padding-top: 25px;
+    display: block;
+    float: left;
+}
+
+.name-logo img {
+    width: 100%;
+}
+
+.menu-header {
+    width: 572px;
+    height: 90px;
+    margin-left: 171.8px;
+    padding-top: 30px;
+    float: left;
+}
+
+.w-menu-header{
+    width: 572px;
+    height: 24px;
+}
+
+.w-menu-header a {
+    height: 24px;
+    float: left;
+    margin-right: 37px;
+    font-weight: 600;
+    font-size: 19px;
+    color: #494949;
+    opacity: 0.5;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 26px;
+}
+
+.ct-header .se-ac-ca-hd{
+    width: 93.45px;
+    height: 56px;
+    float: left;
+    margin-left: 147px;
+    padding-top: 28px;
+}
+
+.se-ac-ca-hd .search-sach{
+    width: 23px;
+    height: 23px;
+    margin-right: 9px;
+    float: left;
+    cursor: pointer;
+}
+
+.search-sach i{
+    font-size: 23px;
+} 
+
+.se-ac-ca-hd .user-sach{
+    width: 22px;
+    height: 22px;
+    float: left;
+    margin-right: 11.07px;
+    cursor: pointer;
+}
+
+.user-sach i{
+    font-size: 22px;
+}
+
+.se-ac-ca-hd .cart-sach{
+    width: 28.38px;
+    height: 28px;
+    float: left;
+    background-color: ;
+    cursor: pointer;
+}
+
+.cart-sach .br-ic-ctsach{
+    width: 25.1px;
+    height: 25.79px;
+    border-radius: 6.78px;
+    background-color: #000000;
+}
+
+.cart-sach .br-ic-ctsach i{
+    color: #FFFFFF;
+    font-size: 13.13px;
+    display: block;
+    line-height: 25.79px;
+    text-align: center;
+}
+
+.container .path{
+    width: 100%;
+    height: 51px;
+    background: #F7F8FC;
+    opacity: 0.5;
+}
+
+.path .ct-path{
+    width: 1440px;
+    height: 51px;
+    margin: auto;
+}
+
+.container footer{
+    width: 100%;
+    height: 325px;
+    background: #404040;
+}
+
+footer .ct-ftr{
+    width: 1440px;
+    margin: auto;
+}
+
+
+.ct-ftr .ctn-ft{
+    width: 1145px;
+    height: 262px;
+    display: flex;
+    margin-left: 118px;
+}
+
+.ctn-ft .ctn-ft-1{
+    width: 318px;
+    height: 292px;
+    padding-top: 32px;
+}
+
+.ctn-ft-1 .logo-white-ft{
+    width: 126.21px;
+    height: 82.93px;
+    margin-left: 39px;
+}
+
+.ctn-ft-1 .slg-ft{
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 17px;
+    color: #FFFFFF;
+    margin-top: 25.07px;
+}
+
+.ctn-ft-1 .scl-nw{
+    width: 246px;
+    height: 35px;
+    margin-top: 3px;
+}
+
+.scl-nw .scl-nw-text{
+    height: 35px;
+    font-weight: 400;
+    font-size: 12.5px;
+    line-height: 35px;
+    color: #FFFFFF;
+    float: left;
+}
+
+.scl-nw .ic-scl-nw{
+    margin-left: 8px;
+    float: left;
+    line-height: 33px;
+}
+
+.ic-scl-nw .ic-scl-nw-sr{
+    cursor: pointer;
+}
+
+.ctn-ft-1 .ct-ft{
+    width: 318px;
+    height: 15px;
+    margin-top: 34px;
+    cursor: pointer;
+}
+
+.ct-ft .ct-sp{
+    width: 87px;
+    float: left;
+    height: 15px;
+    margin-right: 27px;
+}
+
+.ct-ft .sv-v{
+    width: 70px;
+    float: left;
+    height: 15px;
+    margin-right: 27px;
+}
+
+.ct-ft .file-ctm{
+    width: 107px;
+    float: left;
+    height: 15px;
+}
+
+.ic-ct-ft{
+    width: 7px;
+    height: 15px;   
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.7);
+    float: left;
+    margin-right: 2px;
+    padding-top: 1px;
+}
+
+.ct-text{
+    font-weight: 300;
+    font-size: 9.5px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.ctn-ft .ct-me{
+    width: 178px;
+    height: 128px;
+    margin-top: 89px;
+    margin-left: 127px;
+}
+
+.tt-all-ft{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+}
+
+.t-all-ft-1{
+    font-weight: 600;
+    font-size: 12.5px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 16px;
+    display: block;
+}
+
+.t-all-ft-2{
+    font-weight: 600;
+    font-size: 12.5px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 8px;
+    display: block;
+}
+
+.ctn-ft .service-ft{
+    width: 121px;
+    height: 128px;
+    margin-top: 89px;
+    margin-left: 128px;
+}
+
+.ctn-ft .abt-pay{
+    width: 202px;
+    height: 188px;
+    margin-top: 89px;
+    margin-left: 72px;
+}
+
+
+.abt-pay .abt-bh-ft{
+    width: 121px;
+    height: 128px;
+    margin-left: 58px;
+} 
+
+.abt-pay .act-pay-ft{
+    width: 202px;
+    height: 19px;
+    margin-top: 41px;
+}
+
+.act-pay-ft .apf-t{
+    font-weight: 400;
+    font-size: 9.5px;
+    padding-top: 8px;
+    color: #FFFFFF;
+    opacity: 0.95;
+    float: left;
+}
+
+.act-pay-ft .ic-apf-ft{
+    font-size: 15px;
+    margin-left: 2px;
+}
+
+.act-pay-ft .iaf-1{
+    margin-left: 4px;
+    color: white;
+}
