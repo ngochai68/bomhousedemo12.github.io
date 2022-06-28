@@ -31,6 +31,7 @@ header .w-header {
 
 .w-header .ct-header{
     width: 1440px;
+    height: 90px;
     margin: auto;
 }
 
@@ -312,7 +313,9 @@ header .w-header {
 }
 
 .prd-1 .line-prd1{
-    border: 1px solid rgba(0, 0, 0, 0.25);
+    opacity: 0.3;
+    height: 2px;
+    background: rgba(0, 0, 0, 0.25);
 }
 
 .prd-1 .name-prd{
@@ -358,6 +361,7 @@ header .w-header {
 .amt-st .star-prd .star-ic-prd{
     font-size: 8px;
     float: left;
+    line-height: 6px;
 }
 
 .prd-1 .prc-prcold-prd{

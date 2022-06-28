@@ -1,0 +1,285 @@
+/* PC */
+@media (min-width: 1024px) {
+  .hide-on-pc {
+    display: none;
+  }
+}
+
+@media (max-width: 1686px) {
+  .hide-on-1686 {
+    display: none;
+  }
+}
+
+@media (max-width: 1550px) {
+  .hide-on-1550 {
+    display: none;
+  }
+}
+
+@media (max-width: 1350px) {
+  .hide-on-1350 {
+    display: none;
+  }
+}
+
+@media (max-width: 1138px) {
+  .hide-on-1138 {
+    display: none;
+  }
+}
+
+@media (max-width: 1135px) {
+  .text-cv .text-1 {
+    margin-left: 0px;
+  }
+
+  .text-cv .text-2 {
+    margin-left: 0px;
+  }
+
+  .text-cv .view-button {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 920px) {
+  .hide-on-920 {
+    display: none;
+  }
+}
+
+/* Mobile & tablet */
+
+@media (max-width: 1023px) {
+  .hide-on-mobile-tablet {
+    display: none;
+  }
+}
+
+@media (max-width: 1023px) {
+  .hide-on-mobile-tablet {
+    display: none;
+  }
+}
+
+@media (max-width: 1833px) {
+  .ct-mof .text-offer-1 {
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 1543px) {
+  .ct-mof .text-offer-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 1464px) {
+  .monthly-offer .img-offer {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 1198px) {
+  .monthly-offer .offer-t-1 {
+    font-size: 15px;
+  }
+
+  .monthly-offer .text-offer-1 {
+    width: 42%;
+    height: 395.26px;
+    padding-top: 49px;
+    float: left;
+  }
+
+  .text-offer-1 .offer-t-2 {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+
+  .count-down-offer .time-cdo {
+    width: 55px;
+    height: 68px;
+    background: #ffffff;
+    float: left;
+    margin-right: 5px;
+  }
+
+  .time-cdo .text-tcdo-1 {
+    font-size: 30px;
+    line-height: 15px;
+    height: 15px;
+  }
+
+  .count-down-offer .minute-cdo {
+    margin-right: 0px;
+  }
+
+  .text-offer-1 .count-down-offer {
+    height: 60px;
+  }
+}
+
+@media (max-width: 1370px) {
+  .monthly-offer .img-offer {
+    margin-left: 0px;
+  }
+}
+
+
+@media (max-width: 1435px) {
+  .ct-po-bh-1 .text-ct-po-bh-1-2, .ct-po-bh-2 .text-ct-po-bh-2-2, .ct-po-bh-3 .text-ct-po-bh-3-2 {
+    margin-top: 30px;
+}
+
+@media (max-width: 1460px) {
+  .featured-products .prd-ftr-gr{
+    width: 90%;
+  }
+  .policy-bomhouse .content-policy-bomhouse{
+    width: 90%;
+  }
+}
+
+@media (max-width: 1043px) {
+  .featured-products .prd-ftr-gr{
+    width: 95%;
+  }
+  .policy-bomhouse .content-policy-bomhouse{
+    width: 95%;
+  }
+}
+
+@media (max-width: 1690px) {
+  footer .ct-ftr{
+    width: 100%;
+  }
+
+  .ctn-ft-1 .slg-ft{
+    width: 95%;
+  }
+
+}
+
+@media (max-width: 1124px) {
+  footer .ct-ftr{
+    width: 100%;
+  }
+
+  .ctn-ft-1 .slg-ft{
+    width: 95%;
+  }
+
+}
+
+@media (max-width: 1522px) {
+  footer .ct-ftr{
+    width: 100%;
+  }
+}
+
+@media (max-width: 1810px) {
+  .ct-ftr .ctn-ft{
+    width: 100%;
+  }
+}
+
+@media (max-width: 1533px) {
+  footer .ct-ftr{
+    width: 100%;
+  }
+}
+
+@media (max-width: 1750px) {
+  .ctn-ft .ct-me{
+    margin-left: 10%;
+  }
+}
+
+
+
+
+/* Tablet */
+
+@media (min-width: 740px) and (max-width: 1023px) {
+  .hide-on-tablet {
+    display: none;
+  }
+}
+
+@media (max-width: 1008px) {
+  .text-cv .text-2 {
+    height: 100px;
+  }
+}
+
+@media (max-width: 811px) {
+  .text-cv .text-1 {
+    height: 445px;
+  }
+}
+
+@media (max-width: 759px) {
+  .text-cv .text-2 {
+    height: 125px;
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 739px) {
+  .hide-on-mobile {
+    display: none;
+  }
+
+  .container header {
+    width: 100%;
+    height: 41.42px;
+  }
+
+  header .w-header {
+    width: 91.689%;
+    height: 41.42px;
+    background-color: #FFFFF;
+    border-bottom: none;
+    box-shadow: none;
+    margin: auto;
+  }
+
+  .w-header .ct-header {
+    width: 100%;
+    height: 41.42px;
+  }
+
+  .container .cover-img {
+    width: 100%;
+    height: 390.58px;
+    padding-top: 18.58px;
+  }
+
+  .container .best-sale {
+    width: 100%;
+    height: 476px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: #ffffff;
+  }
+
+  body {
+    width: 100%;
+    height: 2380px;
+  }
+
+  .container {
+    width: 100%;
+    height: 2380px;
+    margin: auto;
+  }
+
+  .container header {
+    width: 100%;
+    height: 110px;
+    padding-top: 20px;
+  }
+}
